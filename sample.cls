@@ -1,5 +1,10 @@
 public class hogehoge() {
 
+    /* create user==>A */
+    public void method1() {
+        // hogehogehoge
+    }
+      
     /* create user B */
     private void method2() {
         String str = 'test';
