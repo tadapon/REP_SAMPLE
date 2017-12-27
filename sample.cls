@@ -1,12 +1,14 @@
 public class hogehoge() {
 
-    /* create user==>A */
+    /* create user A */
+    /* change user A */
     public void method1() {
-        // hogehogehoge
+        String message = method2();
     }
       
     /* create user B */
-    private void method2() {
+    /* change user A */
+    private String method2() {
         String str = 'test';
     }
       
